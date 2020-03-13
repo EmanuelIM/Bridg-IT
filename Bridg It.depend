@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1578610112 source:c:\users\emyma\documents\fii\ip\bridg it\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<cmath>
+
+1578785373 source:c:\users\iacob emanuel\desktop\bridg it - 10.01.2020 - 00_59\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<cmath>
+	<time.h>
+	<stdlib.h>
+
+1578995360 source:c:\users\emyma\desktop\bridg it - 12.01.2020 - 01_32\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<cmath>
+	<time.h>
+	<stdlib.h>
+
